@@ -1,2 +1,2 @@
-# SECJ1013-PT
-coursework and summary for Programming Technique subject
+# S U M M A R Y
+Dr. Eiliyah @ Wong Yee Leng taught this topic. As a foundational subject, this course provides students with both theory and application in methods for problem-solving using a structured approach. Students are needed to create programming in the C++ programming language to tackle easy to moderate challenges. The course covers the following topics: pre-processor guidance, parameters and elements, data types, input and output statements, control structures which include sequential, selection, and loop, built-in and user-defined functions, single and two-dimensional arrays, file operations, pointers, and structured data types.
